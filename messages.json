@@ -1,0 +1,10 @@
+{
+    "registerfailed": "Registeration failed! User is registered already or our service does not work properly.",
+    "registersuccess": "Register succesful!",
+    "addressadded": "Address was added succesfully!",
+    "addressaddfailed": "Address was not added. User already has address added or this address is being used by someone else.",
+    "addressremoved": "Address was removed succesfully!",
+    "addressremovefailed": "No address to remove. Address was not removed.",
+    "balcheckfailed": "Balance check failed!",
+    "usernotregistered": "You are not registered. Please register first before trying to use Ethgambling bot."
+}

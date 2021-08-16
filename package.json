@@ -1,0 +1,14 @@
+{
+  "name": "gamblebot",
+  "version": "1.0.0",
+  "description": "Gambling bot for Discord. Works with ethereum.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anon",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}

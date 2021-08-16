@@ -1,0 +1,15 @@
+{
+    "discord_secret": "",
+    "mysql": {
+        "host": "",
+        "username": "",
+        "password": "",
+        "database": ""
+    },
+    "mongodb": {
+        "host": "",
+        "username": "",
+        "password": "",
+        "clusterurl": ""
+    }
+}
